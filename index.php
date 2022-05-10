@@ -18,7 +18,7 @@ $arr = [
 		'Discription' => 'Discription'
 	]
 ];
-
+// новый комментарий
 echo "<pre>";
 print_r($arr);
 echo "</pre>";
